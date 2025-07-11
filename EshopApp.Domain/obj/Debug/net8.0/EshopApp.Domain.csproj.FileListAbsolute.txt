@@ -1,0 +1,15 @@
+C:\Users\mamad\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Domain.deps.json
+C:\Users\mamad\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Domain.dll
+C:\Users\mamad\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Domain.pdb
+C:\Users\mamad\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Shared.dll
+C:\Users\mamad\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Shared.pdb
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.csproj.AssemblyReference.cache
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.AssemblyInfoInputs.cache
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.AssemblyInfo.cs
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.7E9C0053.Up2Date
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.dll
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\refint\EshopApp.Domain.dll
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.pdb
+C:\Users\mamad\EshopApp\EshopApp.Domain\obj\Debug\net8.0\ref\EshopApp.Domain.dll

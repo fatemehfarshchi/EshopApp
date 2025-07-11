@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mamad\\EshopApp\\EshopApp.Infrastructure\\EshopApp.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mamad\\EshopApp\\EshopApp.Application\\EshopApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mamad\\EshopApp\\EshopApp.Application\\EshopApp.Application.csproj",
+        "projectName": "EshopApp.Application",
+        "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Application\\EshopApp.Application.csproj",
+        "packagesPath": "C:\\Users\\mamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj"
+              },
+              "C:\\Users\\mamad\\EshopApp\\EshopApp.Shared\\EshopApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Shared\\EshopApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj",
+        "projectName": "EshopApp.Domain",
+        "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\mamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mamad\\EshopApp\\EshopApp.Shared\\EshopApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Shared\\EshopApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mamad\\EshopApp\\EshopApp.Infrastructure\\EshopApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mamad\\EshopApp\\EshopApp.Infrastructure\\EshopApp.Infrastructure.csproj",
+        "projectName": "EshopApp.Infrastructure",
+        "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Infrastructure\\EshopApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mamad\\EshopApp\\EshopApp.Application\\EshopApp.Application.csproj": {
+                "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Application\\EshopApp.Application.csproj"
+              },
+              "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj"
+              },
+              "C:\\Users\\mamad\\EshopApp\\EshopApp.Persistence\\EshopApp.Persistence.csproj": {
+                "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Persistence\\EshopApp.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mamad\\EshopApp\\EshopApp.Persistence\\EshopApp.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mamad\\EshopApp\\EshopApp.Persistence\\EshopApp.Persistence.csproj",
+        "projectName": "EshopApp.Persistence",
+        "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Persistence\\EshopApp.Persistence.csproj",
+        "packagesPath": "C:\\Users\\mamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Domain\\EshopApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mamad\\EshopApp\\EshopApp.Shared\\EshopApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mamad\\EshopApp\\EshopApp.Shared\\EshopApp.Shared.csproj",
+        "projectName": "EshopApp.Shared",
+        "projectPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Shared\\EshopApp.Shared.csproj",
+        "packagesPath": "C:\\Users\\mamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mamad\\EshopApp\\EshopApp.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mamad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
